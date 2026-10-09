@@ -1,0 +1,10 @@
+/* Espaço para o conteúdo não ficar embaixo da navbar fixa */
+.conteudo {
+  padding-top: 110px;
+  padding-bottom: 40px;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
